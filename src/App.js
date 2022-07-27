@@ -7,7 +7,7 @@ function App() {
     return (
         <div className='App'>
             <Header></Header>
-            <h1 className='text-6xl'>welcome</h1>
+            <h1 className='text-6xl p-5 text-gray-800 font-sans font-bold  '>Welcome</h1>
             <Pricing></Pricing>
         </div>
     );
