@@ -10,7 +10,7 @@ const Pricing = () => {
     return (
         <div className='bg-indigo-300 p-4 mt-4'>
             <h1 className='text-6xl font-mono text-white'>Best deals of the town</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit maxime sapiente dolorum cum quam nam officia culpa reprehenderit voluptatibus cupiditate.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit maxime sapiente dolorum cum quam nam officia culpa reprehenderit voluptatibus cupiditate. Lorem ipsum dolor sit amet. </p>
 
             <div className='grid md:grid-cols-3 gap-3 mt-8'>
                 {pricingOptions.map(option => (
